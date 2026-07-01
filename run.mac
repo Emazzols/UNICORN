@@ -1,0 +1,6 @@
+/run/verbose 0
+/tracking/verbose 0
+/process/optical/verbose 0
+
+/run/printProgress 1000
+/run/beamOn 10000

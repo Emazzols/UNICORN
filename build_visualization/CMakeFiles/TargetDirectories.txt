@@ -1,0 +1,7 @@
+/home/spacal/Documents/DBDQD/simulations/build/CMakeFiles/install/strip.dir
+/home/spacal/Documents/DBDQD/simulations/build/CMakeFiles/edit_cache.dir
+/home/spacal/Documents/DBDQD/simulations/build/CMakeFiles/g4odoscope.dir
+/home/spacal/Documents/DBDQD/simulations/build/CMakeFiles/rebuild_cache.dir
+/home/spacal/Documents/DBDQD/simulations/build/CMakeFiles/list_install_components.dir
+/home/spacal/Documents/DBDQD/simulations/build/CMakeFiles/install/local.dir
+/home/spacal/Documents/DBDQD/simulations/build/CMakeFiles/install.dir
