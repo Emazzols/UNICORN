@@ -1,5 +1,5 @@
 # Simulations for the UNICORN project
-Code for double beta decay in QD simulation
+Code for the simulation of nanocomposite scintillators.
 
 Requires version 11.1.2 of GEANT4 with C++ standard 17
 Recommended version of ROOT 6.28/06, which comes with C++ standard 17 as well.
