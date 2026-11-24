@@ -41,4 +41,4 @@ One example of a config file is in the `example` folder.
 
  Be careful to change the absolute path of the `dbd` to reflect your PC configuration.
 
-
+Note: the simulation is currently under development.
